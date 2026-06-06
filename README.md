@@ -63,6 +63,9 @@ Before examining benchmark results, it is important to define the primary comput
 
 Memory stores the data and instructions required by a program during execution. Efficient memory management can significantly impact application performance and energy consumption.
 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f7c4c8d5-42aa-4d98-a48d-7089f1eb3169" />
+
+
 ## CPU (Central Processing Unit)
 
 The CPU serves as the primary processing unit of a computer. It executes instructions, performs calculations, and manages data flow throughout the system.
@@ -219,6 +222,9 @@ However, it is important to acknowledge that:
 ---
 
 # Conclusion
+
+<img width="617" height="370" alt="image" src="https://github.com/user-attachments/assets/07d585b2-7337-44af-b0b3-427da30db013" />
+
 
 This study highlights the impact that programming language and runtime choices can have on resource utilization and energy consumption.
 
